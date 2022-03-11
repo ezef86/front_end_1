@@ -1,0 +1,16 @@
+.div1 {
+  color: white;
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+}
+.div2 {
+  display: flex;
+  justify-content: space-around;
+  background-color: #f0a83e;
+}
+.div3 {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
