@@ -14,3 +14,18 @@
   display: flex;
   justify-content: space-between;
 }
+
+.imgbowl {
+  background-image: url("../img/bowl.jpg");
+  height: 400px;
+  width: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+body {
+  width: 80%;
+  margin: 0 auto;
+}
+.opciones1 {
+  justify-content: end;
+}
