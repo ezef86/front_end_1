@@ -1,9 +1,29 @@
-.div1 {
+/*Estilo del header*/
+
+.header-1 {
   color: white;
   background-color: black;
-  display: flex;
-  justify-content: space-around;
+  height: 30px;
 }
+.header-left {
+  position: relative;
+  left: 10px;
+  top: 2px;
+}
+.headerL {
+  width: 200px;
+  height: 25px;
+}
+.header-right {
+  position: relative;
+  right: 10px;
+  top: 2px;
+}
+.headerR {
+  width: 200px;
+  height: 25px;
+}
+
 .div2 {
   display: flex;
   justify-content: space-around;
@@ -14,6 +34,8 @@
   display: flex;
   justify-content: space-between;
 }
+
+/*Fin de estilo del headr*/
 
 .imgbowl {
   background-image: url("../img/bowl.jpg");
